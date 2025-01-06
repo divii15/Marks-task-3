@@ -1,3 +1,13 @@
+#TASK 3
+#6)get the name,rollnumber,tamil, eng, maths mark from user.
+#if 3 subject total is greater than 90, output will be First class.
+#if 3 subject total is greater than 80, output will be Second class.
+#if 3 subject total is greater than 60, output will be third class.
+#if 3 subject total is greater  than or equal to 35, output will be Avarage.
+#otherwise fail.
+
+
+
 name = input("Enter your name:")
 roll_number = input("Enter your roll number:")
 tamil_marks = int(input("Enter Tamil marks:"))
